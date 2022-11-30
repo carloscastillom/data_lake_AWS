@@ -19,17 +19,22 @@ You'll be able to test your database and ETL pipeline by running queries given t
 ## Database Schema
 
 songs_table
+
 ![image](https://user-images.githubusercontent.com/65776444/204892733-ef229b66-26a8-4973-84cf-27688cce2529.png)
 
 artists_table
+
 ![image](https://user-images.githubusercontent.com/65776444/204892840-9a3ccddb-e620-4ffd-bcd1-45d3d357a47e.png)
 
 user_table
+
 ![image](https://user-images.githubusercontent.com/65776444/204892914-aeb5951b-f856-434e-8afd-94f5e05ecbc7.png)
 
 time_table
+
 ![image](https://user-images.githubusercontent.com/65776444/204893003-c885c094-f90b-414e-a4d3-1b7e8c501ce9.png)
 
 songplay_table
+
 ![image](https://user-images.githubusercontent.com/65776444/204893331-5d4d37bf-3d0c-4808-b70f-0dcbf433963e.png)
 
