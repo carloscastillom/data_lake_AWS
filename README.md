@@ -1,4 +1,4 @@
-# data_lake_AWS
+# Data lake in AWS
 
 Introduction - The purpose of the project, What is Sparkify, how this project is going to help it.
 Database schema design and ETL process
@@ -38,7 +38,6 @@ time_table
 songplay_table
 
 ![image](https://user-images.githubusercontent.com/65776444/204893331-5d4d37bf-3d0c-4808-b70f-0dcbf433963e.png)
-
 
 
 ## files in project
