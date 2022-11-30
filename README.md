@@ -30,6 +30,7 @@ user_table
 
 ![image](https://user-images.githubusercontent.com/65776444/204892914-aeb5951b-f856-434e-8afd-94f5e05ecbc7.png)
 
+
 time_table
 
 ![image](https://user-images.githubusercontent.com/65776444/204893003-c885c094-f90b-414e-a4d3-1b7e8c501ce9.png)
@@ -38,3 +39,25 @@ songplay_table
 
 ![image](https://user-images.githubusercontent.com/65776444/204893331-5d4d37bf-3d0c-4808-b70f-0dcbf433963e.png)
 
+
+
+## files in project
+
+### dl.cfg
+configuration file where youmust include zour own AWS credentials.
+
+![image](https://user-images.githubusercontent.com/65776444/204895168-f803a00d-190c-4ee0-ba78-31615ef4c323.png)
+
+
+### etl.py
+python script where the S3 buckets are read and write the parquet files in another bucket.
+
+
+### sparkses.ipynb
+Jupyter Notebook where most of process was runned before etl.py was assembled. 
+
+
+## How to run
+
+- create a bucket in S3 where the output must be saved.
+- Run python etl.py
